@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+node_modules/
+*.log
+# Nunca versione fotos ou exports biométricos
+*.jpg
+*.jpeg
+*.png
+*.webp
+faceid-base.json
